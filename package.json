@@ -1,0 +1,21 @@
+{
+  "name": "tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "codeceptjs": "^3.1.1",
+    "dotenv": "^10.0.0",
+    "mocha": "^9.0.3",
+    "mochawesome": "^6.2.2",
+    "puppeteer": "^10.2.0",
+    "supertest": "^6.1.4"
+  }
+}
